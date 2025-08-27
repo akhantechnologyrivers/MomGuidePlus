@@ -1,6 +1,6 @@
 {
-  "short_name": "Mom Guide Plus",
-  "name": "Mom Guide Plus - Your Comprehensive Parenting Companion",
+  "short_name": "MomGuide",
+  "name": "Mom Guide Plus",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#ed751a",
+  "theme_color": "#ffffff",
   "background_color": "#ffffff"
 }
