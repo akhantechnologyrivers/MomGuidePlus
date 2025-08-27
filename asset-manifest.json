@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mom-guide/static/css/main.8389991f.css",
-    "main.js": "/mom-guide/static/js/main.999dd24b.js",
-    "index.html": "/mom-guide/index.html",
-    "main.8389991f.css.map": "/mom-guide/static/css/main.8389991f.css.map",
-    "main.999dd24b.js.map": "/mom-guide/static/js/main.999dd24b.js.map"
+    "main.css": "/MomGuidePlus/static/css/main.8389991f.css",
+    "main.js": "/MomGuidePlus/static/js/main.999dd24b.js",
+    "index.html": "/MomGuidePlus/index.html",
+    "main.8389991f.css.map": "/MomGuidePlus/static/css/main.8389991f.css.map",
+    "main.999dd24b.js.map": "/MomGuidePlus/static/js/main.999dd24b.js.map"
   },
   "entrypoints": [
     "static/css/main.8389991f.css",
